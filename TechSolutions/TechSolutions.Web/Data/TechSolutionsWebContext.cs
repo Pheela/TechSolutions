@@ -14,6 +14,7 @@ namespace TechSolutions.Web.Data
         {
         }
 
+        public DbSet<TechSolutions.Model.Customer> Customers { get; set; }
         public DbSet<TechSolutions.Model.CustomerAddress> CustomerAddress { get; set; }
     }
 }
