@@ -1,0 +1,30 @@
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Model\bin\Debug\netcoreapp3.1\TechSolutions.Model.deps.json
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Model\bin\Debug\netcoreapp3.1\TechSolutions.Model.dll
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Model\bin\Debug\netcoreapp3.1\TechSolutions.Model.pdb
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.csproj.AssemblyReference.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.AssemblyInfoInputs.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.AssemblyInfo.cs
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.csproj.CoreCompileInputs.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.dll
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.pdb
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Model\bin\Debug\netcoreapp3.1\TechSolutions.Model.deps.json
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Model\bin\Debug\netcoreapp3.1\TechSolutions.Model.dll
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Model\bin\Debug\netcoreapp3.1\TechSolutions.Model.pdb
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.csproj.AssemblyReference.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.AssemblyInfoInputs.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.AssemblyInfo.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.csproj.CoreCompileInputs.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.dll
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.pdb
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\bin\Debug\netcoreapp3.1\TechSolutions.Model.deps.json
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\bin\Debug\netcoreapp3.1\TechSolutions.Model.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\bin\Debug\netcoreapp3.1\TechSolutions.Model.pdb
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.AssemblyInfoInputs.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.AssemblyInfo.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.csproj.CoreCompileInputs.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.pdb
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\netcoreapp3.1\TechSolutions.Model.csproj.AssemblyReference.cache

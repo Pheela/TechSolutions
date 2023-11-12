@@ -1,0 +1,46 @@
+CREATE DATABASE TechSolutionsDB;
+USE TechSolutionsDB;
+
+CREATE TABLE Customers (
+    CustomerId INT IDENTITY(1,1) PRIMARY KEY,
+    CustomerName NVARCHAR(50),
+    CustomerSurname NVARCHAR(50),
+    ContactNumber NVARCHAR(20),
+	Gender NVARCHAR(20),
+	EmailAddress NVARCHAR(50),	
+    AddressId INT,	
+	CONSTRAINT FK_CustomerAddress FOREIGN KEY (AddressId)
+	REFERENCES CustomerAddresses (AddressId);
+);
+
+CREATE TABLE CustomerAddresses (
+    AddressId INT IDENTITY(1,1) PRIMARY KEY,
+	StreetNumber NVARCHAR(20),
+    StreetName NVARCHAR(50),
+    City NVARCHAR(50),
+	PostalCode NVARCHAR(20),
+	Country NVARCHAR(50),	
+);
+
+CREATE TABLE MedicalRecords (
+    RecordId INT IDENTITY(1,1) PRIMARY KEY,
+	CustomerId INT, 
+	CONSTRAINT FK_Customer FOREIGN KEY (CustomerId)
+	REFERENCES Customers (CustomerId);
+    DateOfVisit DATETIME NOT NULL,
+    VisitDetails NVARCHAR(100),
+	DoctorId INT, 
+	CONSTRAINT FK_Doctor FOREIGN KEY (DoctorId)
+	REFERENCES Doctors (DoctorId);
+
+);
+
+CREATE TABLE Doctors (
+    DoctorId INT IDENTITY(1,1) PRIMARY KEY,
+	DoctorName NVARCHAR(50), 
+    DoctorSurname NVARCHAR(50), 
+    Specialization NVARCHAR(50),
+);
+
+
+

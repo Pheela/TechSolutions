@@ -1,0 +1,11 @@
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\bin\Debug\net6.0\TechSolutions.Model.deps.json
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\bin\Debug\net6.0\TechSolutions.Model.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\bin\Debug\net6.0\TechSolutions.Model.pdb
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\net6.0\TechSolutions.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\net6.0\TechSolutions.Model.AssemblyInfoInputs.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\net6.0\TechSolutions.Model.AssemblyInfo.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\net6.0\TechSolutions.Model.csproj.CoreCompileInputs.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\net6.0\TechSolutions.Model.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\net6.0\refint\TechSolutions.Model.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\net6.0\TechSolutions.Model.pdb
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Model\obj\Debug\net6.0\ref\TechSolutions.Model.dll

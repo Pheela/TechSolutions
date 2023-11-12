@@ -1,0 +1,259 @@
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.exe
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.deps.json
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.runtimeconfig.json
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.runtimeconfig.dev.json
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.dll
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.pdb
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.Views.dll
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.Views.pdb
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Model.dll
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Model.pdb
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.csproj.AssemblyReference.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.AssemblyInfoInputs.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.AssemblyInfo.cs
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.csproj.CoreCompileInputs.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorAssemblyInfo.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorAssemblyInfo.cs
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\TechSolutions.Web.StaticWebAssets.Manifest.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\TechSolutions.Web.StaticWebAssets.xml
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\TechSolutions.Web.styles.css
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.TagHelpers.input.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.TagHelpers.output.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorCoreGenerate.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorTargetAssemblyInfo.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorTargetAssemblyInfo.cs
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.Views.pdb
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.csproj.CopyComplete
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.dll
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.pdb
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.genruntimeconfig.cache
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Users\fshar\Desktop\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.StaticWebAssets.xml
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.exe
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.deps.json
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.runtimeconfig.json
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.runtimeconfig.dev.json
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.dll
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.pdb
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.Views.dll
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.Views.pdb
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Model.dll
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Model.pdb
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.csproj.AssemblyReference.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.AssemblyInfoInputs.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.AssemblyInfo.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.csproj.CoreCompileInputs.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorAssemblyInfo.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorAssemblyInfo.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\TechSolutions.Web.StaticWebAssets.Manifest.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\TechSolutions.Web.StaticWebAssets.Pack.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TechSolutions.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TechSolutions.Web.props
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TechSolutions.Web.props
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TechSolutions.Web.props
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.TagHelpers.input.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.TagHelpers.output.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorCoreGenerate.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorTargetAssemblyInfo.cache
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorTargetAssemblyInfo.cs
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.Views.pdb
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.csproj.CopyComplete
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.dll
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.pdb
+C:\Users\5th Gen Core i5\Downloads\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.genruntimeconfig.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.StaticWebAssets.xml
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.exe
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.deps.json
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.runtimeconfig.json
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.runtimeconfig.dev.json
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.pdb
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.Views.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Web.Views.pdb
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Model.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\bin\Debug\netcoreapp3.1\TechSolutions.Model.pdb
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.csproj.AssemblyReference.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.AssemblyInfoInputs.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.AssemblyInfo.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.csproj.CoreCompileInputs.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorAssemblyInfo.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorAssemblyInfo.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\TechSolutions.Web.StaticWebAssets.Manifest.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\TechSolutions.Web.StaticWebAssets.Pack.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TechSolutions.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TechSolutions.Web.props
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TechSolutions.Web.props
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TechSolutions.Web.props
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.TagHelpers.input.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.TagHelpers.output.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorCoreGenerate.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorTargetAssemblyInfo.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.RazorTargetAssemblyInfo.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.Views.pdb
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.csproj.CopyComplete
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.dll
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.pdb
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\TechSolutions.Web.genruntimeconfig.cache
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\CustomerAddresses\Create.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\CustomerAddresses\Delete.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\CustomerAddresses\Details.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\CustomerAddresses\Edit.cshtml.g.cs
+C:\Projects\TechSolutions\TechSolutions\TechSolutions.Web\obj\Debug\netcoreapp3.1\Razor\Views\CustomerAddresses\Index.cshtml.g.cs

@@ -1,0 +1,20 @@
+﻿@model TechSolutions.Model.Customer
+
+<h2>Delete</h2>
+
+<p>Are you sure you want to delete this customer?</p>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="CustomerId" />
+
+    <div class="form-group">
+        <label asp-for="CustomerName" class="control-label"></label>
+        <input asp-for="CustomerName" class="form-control" disabled />
+    </div>
+    <!-- Add other fields as needed -->
+
+    <div class="form-group">
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        <a asp-action="Index">Back to List</a>
+    </div>
+</form>
