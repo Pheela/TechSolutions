@@ -15,11 +15,8 @@ CREATE TABLE Customers (
     CustomerName NVARCHAR(50),
     CustomerSurname NVARCHAR(50),
     ContactNumber NVARCHAR(20),
-	Gender NVARCHAR(20),
-	EmailAddress NVARCHAR(50),	
-    AddressId INT,	
-	CONSTRAINT FK_CustomerAddress FOREIGN KEY (AddressId)
-	REFERENCES CustomerAddresses (AddressId);
+    Gender NVARCHAR(20),
+    EmailAddress NVARCHAR(50)
 );
 
 CREATE TABLE Doctors (
